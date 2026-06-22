@@ -1,0 +1,74 @@
+body {
+margin: 0;
+background: #111827;
+color: white;
+font-family: Arial, sans-serif;
+}
+
+.container {
+padding: 20px;
+}
+
+.header {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.metrics {
+display: flex;
+gap: 20px;
+margin: 20px 0;
+}
+
+.card {
+background: #1f2937;
+padding: 20px;
+border-radius: 10px;
+min-width: 250px;
+}
+
+.form {
+display: flex;
+gap: 10px;
+flex-wrap: wrap;
+}
+
+input,
+select,
+button {
+padding: 10px;
+}
+
+table {
+width: 100%;
+margin-top: 20px;
+border-collapse: collapse;
+}
+
+th,
+td {
+border: 1px solid #374151;
+padding: 12px;
+}
+
+.paused-row {
+opacity: 0.4;
+}
+
+.badge {
+margin-left: 10px;
+background: orange;
+color: black;
+padding: 4px 8px;
+border-radius: 5px;
+}
+
+.toast {
+position: fixed;
+bottom: 20px;
+right: 20px;
+background: green;
+padding: 12px;
+border-radius: 8px;
+}
