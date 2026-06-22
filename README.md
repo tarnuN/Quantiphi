@@ -152,8 +152,7 @@ GET /api/metrics
 * Responsive Mobile UI
 
 * output
-  ![Dashboard](<img width="1490" height="751" alt="image" src="https://github.com/user-attachments/assets/c88b7350-5300-4fda-92c4-4462ba4b235d" />
-)
+  ![Dashboard](https://github.com/user-attachments/assets/c88b7350-5300-4fda-92c4-4462ba4b235d)
 
 ## Author
 
